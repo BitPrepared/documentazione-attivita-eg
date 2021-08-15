@@ -73,7 +73,7 @@ Siamo tornati sul pianeta e vogliamo condividere le nostre esperienze. “vediam
 
 Attori: I capi responsabili del fuoco di bivacco.
 
-Gioco: fuoco di bivacco a tema riskiatutto con giochi e domande. Vedere [Fuoco di bivacco 26/8](attivita/ambientazione/bivacco-26-8.md).
+Gioco: fuoco di bivacco a tema riskiatutto con giochi e domande. Vedere [Fuoco di bivacco 26/8](bivacco-26-8.md).
 Inoltre le sq prima del fuoco dovranno "condividere" l’uscita modificando un canto o un bans per raccontare la giornata.
 
 
@@ -102,7 +102,7 @@ Visto che dovremo spostarci per inseguire l’Imperatore dobbiamo imparare a nav
 Attori: I capi responsabili dell'attività.
 
 Gioco: Bivacco con veglia alle stelle.
-Vedere [Fuoco di bivacco 27/8](attivita/ambientazione/bivacco-27-8.md)
+Vedere [Fuoco di bivacco 27/8](bivacco-27-8.md)
 
 
 ### 9° ATTO: lancio per il Gioco sul funzionamento del CPS/GPS - GPS e GPX - tracciamento e utilità tracce ###
@@ -130,4 +130,4 @@ Distruggiamo la morte nera e poi facciamo festa!
 Attori: tutti quelli vivi!
 
 Gioco: Fuoco di bivacco finale con distruzione pirotecnica della morte nera.
-Vedere [Fuoco di bivacco 28/8](attivita/ambientazione/bivacco-28-8.md)
+Vedere [Fuoco di bivacco 28/8](bivacco-28-8.md)
