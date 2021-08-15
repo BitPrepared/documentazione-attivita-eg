@@ -55,7 +55,7 @@ I maestri jedi lanciano sfide di addestramento serale, per capire di che pasta s
 Attori: tutti travestiti da maestri jedi , dirigono le prove i capi responsabili del fuoco di bivacco.
 
 Gioco: Fuoco serale - “Un minuto per vincere” consiste in una serie di sfide covidfree in cui le squadriglie si sfidano, e partecipano scegliendo un proprio campione per ogni gioco.
-Vedere [Fuoco di bivacco 25/8](attivita/ambientazione/bivacco-25-8.md).
+Vedere [Fuoco di bivacco 25/8](bivacco-25-8.md).
 
 
 ### 4° ATTO: per prepararci a partire per l’uscita sulla millennium falcon ###
