@@ -7,6 +7,7 @@
   * [Fuoco di bivacco 28/8](attivita/ambientazione/bivacco-28-8.md)
 	 
 * [Formazione Squadriglie](attivita/formazione-sq)
+* [PRBMM Bug Reporting](attivita/prbmm-bug-reporting)
 * [GPS-CPS](attivita/gps-cps)
 * [Fake News](attivita/fake-news)
 * [Mayalinux](attivita/mayalinux)
