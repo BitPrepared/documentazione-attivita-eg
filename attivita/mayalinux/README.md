@@ -1,5 +1,9 @@
 # Mayalinux
 
+## Lancio
+I maestri Jedi sono convinti che qualcuno li abbia traditi. Cercano quindi una mappa spaziale per trovare un nuovo luogo per ritrovarsi e poter proseguire l'addestramento (Mayalinux). Parallelamente si cerca di capire chi ci dà le giuste informazioni. 
+Attori: ENRICO+FIPPE VESTITI DA MAESTRI DA JEDI
+
 ## Obiettivi
 
 Mostrare che "dietro" al device, "under the hood", c'è molto altro. Non è magia!
