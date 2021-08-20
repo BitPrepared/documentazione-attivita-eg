@@ -33,7 +33,7 @@ In tempi di incertezza, come durante questa pandemia, è forte la tentazione di 
 
 
 Materiali:
-* (Parole, hashtag, nomi di pseudo-esperti, Meme etc da appendere agli alberi)[parole_gioco_fakenews.pdf]
+* [Parole, hashtag, nomi di pseudo-esperti, Meme etc da appendere agli alberi](parole_gioco_fakenews.pdf)
 * Spago
 * Fogli A3 bianchi
 * Pennarelli
