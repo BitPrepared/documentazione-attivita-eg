@@ -27,3 +27,8 @@ Ci si divide a coppie. Lo scopo è di presentarsi reciprocamente entro tre minut
 
 ## L'elefante
 Il gruppo è seduto in cerchio. Il capo passa un oggetto al suo vicino di destra dichiarando: «Questo è un elefante». L'altro, incredulo, chiede stupito: «Che cos'è!?». «Un elefante», ripete il primo. Allora il secondo prende l'oggetto e dice a chi sta alla sua destra: «E' vero, e se lo guardi bene, questo è un elefante...» aggiungendo poi un dettaglio di fantasia (es. «Un elefante rosa», «Un elefante che salta»). Si continua così man mano aggiungendo dettagli alla descrizione.
+
+## Atomi
+
+I giocatori girano liberamente nel prato. Un capo dice ad alta voce "atomi... Colore degli occhi" e i giocatori devono raggrupparsi in gruppi tutti con la stessa caratteristica (gruppo degli occhi castani, gruppo degli occhi azzurri, ecc) poi al fischio di torna a girare liberamente.
+Si possono proporre all'inizio caratteristiche fisiche (capelli, occhiali, colore della maglietta ecc...) e poi magari informazioni "non visibili" (es. lettera iniziale del nome, mese di nascita, gusto preferito del gelato/pizza, scuola frequentata se sono già alle superiori, ecc)
