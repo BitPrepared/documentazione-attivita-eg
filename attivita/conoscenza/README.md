@@ -2,8 +2,9 @@
 
 ## Gioco A/B
 
-Si parte tutti in mezzo, poi il capo offre due opzioni e gli E/G devono scegliere l'una o l'altra, spostandosi a destra oppure sinista in base alla propria preferenza. Es. "A destra YouTube, a sinistra Spotify", "A destra Sushi, a sinistra Pizza" etc.
+Si parte tutti in mezzo, poi il capo offre due opzioni e gli E/G devono scegliere l'una o l'altra, spostandosi a destra oppure sinistra in base alla propria preferenza. Es. "A destra YouTube, a sinistra Spotify", "A destra Sushi, a sinistra Pizza" etc.
 Si ripete a piacere, ogni volta tornando nel centro.
+Variazione: eventualmente, possono essere gli stessi E/G a turno a lanciare le due opzioni.
 
 
 ## In ordine di...
