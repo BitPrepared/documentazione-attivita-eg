@@ -1,6 +1,6 @@
 # Percorso via False (2 ore)
 
-_Lunghezza Km 8,70 – Tempo di percorrenza 2 ore_
+_Lunghezza Km 8,70 – Tempo di percorrenza 2 ore – [Scarica Mappa](mappa.pdf) _
 
 Partendo dalla Base seguendo la strada bianca in direzione nord est, si supera la Torretta, la sbarra di accesso e giunti al primo bivio si gira a sinistra (subito dopo una seconda sbarra )
 

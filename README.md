@@ -13,6 +13,7 @@
 * [Mayalinux](attivita/mayalinux)
 * [ABCDE(F?)](attivita/abcdef/abcdef.pdf)
 * [Software Libero](attivita/software-libero)
+* [Uscita](attivita/uscita)
 * Gioco puntamento
 * Telematica
 * Digital life
