@@ -22,4 +22,4 @@
 * Workshop:
   * [Sviluppo App](attivita/workshop-app)
   * Editoria
-  * Stop-motion
+  * [Stop-motion](attivita/workshop-stopmotion)
