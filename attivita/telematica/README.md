@@ -11,3 +11,10 @@
 ## Parte 2 - Internet e Web, buoni e cattivi
 - Pericoli presenti in rete / Cose positive presenti in rete. Ogni sq. deve suddiversi e elencarne 3 per categoria, in ordine di importanza. Poi tribunale "a chiamata" dei singoli avvocati per argomentare le proprie scelte, sostenendole rispetto agli altri. (20 min)
 - Analisi degli aspetti emersi dagli E/G più eventuale accenno/provocazioni ad alcuni fenomeni: click baiting (acchiappaclick), tracciamento e profilazione, digital divide, fake news, deepweb, cyberwar, libertà di crescita e di autodeterminarsi, accesso a materiali con costi notevolemente inferiori, aumento della "spazzattura", costi energetici, predominio monopoli etc (30 min)
+
+## Materiale "Gioco degli IP"
+- [scheda gioco per organizzatori](scheda_gioco_telematica.odt)
+- [slide riassunto per giocatori](riassunto_per_giocatori.odp)
+- [cartelli ruoli](ruoli.odt)
+- [scheda percorso stampabile per giocatori](scheda_percorso_per_stampa.odt)
+- [IP-MAC address stampabili](IP-MAC_address_stampa.ods)

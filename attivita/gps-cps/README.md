@@ -17,7 +17,7 @@ I satelliti che battono il tempo stanno per esempio:
 - sull'angolo del tavolone (posizione merenda), meglio se su una scala
 - al primo o al secondo tavolo di squadriglia (in piedi sul tavolo)
 (ma se si potesse andare sulla torretta sarebbe ottimale)
-  - ai bidoni della spazzatura (in piedi sui bidoni)
+- ai bidoni della spazzatura (in piedi sui bidoni)
 
 Si gioca una squadriglia alla volta.  I membri e le membre della
 squadriglia  vengono sparsi bendati nel campo (ma noi dobbiamo sapere
@@ -45,4 +45,4 @@ essere ben sincroni tra loro).
 
 La chiacchierata sul gipifesso dovrebbe essere metà prima e metà
 dopo del gioco.  Prima si racconta la teoria, spiegando il gioco, e
-dopo si puo` discutere di praivasi.
+dopo si può discutere di praivasi.

@@ -19,15 +19,15 @@ In questi giorni di campo, hai avuto l’occasione di conoscere nuovi amici… N
 
 * Come sto vivendo personalmente questi giorni di Campo? Ho il cuore libero e la voglia di fare del mio meglio oppure ho pensieri che mi frenano? Sono pronto a tirarli fuori?
 
-**Prova a rispondere a queste domande insieme alla tua Squadriglia, aprendo liberamente il tuo cuore! Concentrati sulla costellazione che ti abbiamo affidato all'inizio della serata e trovala nel cielo...**
+**Prova a rispondere a queste domande prima da solo e poi insieme alla tua Squadriglia, aprendo liberamente il tuo cuore!**
 
-**Con le stelle che vi abbiamo affidato provate a costruire la vostra costellazione: pensate a che forma possa avere e cosa rappresenti per voi (un animale, un sentimento, ecc.)... poi dovrete spiegarlo a tutti!**
+**Infine, con le stelle che vi abbiamo affidato, provate a costruire la vostra costellazione: pensate a che forma possa avere e cosa rappresenti per voi (un animale, un sentimento, ecc.)... poi dovrete spiegarlo a tutti!**
 
-*“C’era la luna, c’erano le stelle,
-C’era una nuova emozione sulla pelle,
-C’era la notte, c’erano i fiori,
-Anche al buio si vedevano i colori,
-C’era la voglia di stare ancora insieme,
-forse per gioco comunque ci viene, …
-C’era una notte con una sola stella
-però era grande luminosa e bella…”*
+*“I nomi delle stelle sono belli:
+Sirio, Andromeda, l’Orsa, i due Gemelli.
+Chi mai potrebbe dirli tutti in fila?
+Son più di cento volte centomila.
+E in fondo al cielo, non so dove e come,
+c’è un milione di stelle senza nome:
+stelle comuni, nessuno le cura,
+ma per loro la notte è meno scura."*
