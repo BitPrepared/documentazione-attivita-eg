@@ -17,7 +17,7 @@
 * [Software Libero](attivita/software-libero)
 * [Uscita](attivita/uscita)
 * Gioco puntamento
-* Telematica
+* [Telematica](attivita/telematica)
 * Digital life
 * Workshop:
   * [Sviluppo App](attivita/workshop-app)
