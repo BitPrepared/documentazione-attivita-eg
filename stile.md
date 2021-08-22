@@ -90,5 +90,8 @@ Finito di mangiare, quando i ragazzi sono ai lavabi, sarebbe bene fare un giro n
 
 Dopo l'ultimo pranzo in cui cucinano i ragazzi assicurarsi che le casse siano pulite e al completo. 
 
+## Staff serali
+Durante le staff serali verificare la giornata, decidere a che squadriglia assegnare i punti per le attività fatte se non assegnate immediatamente dopo il gioco o attività, verificare orari e materiali, ripassare attività principali.
+
 ## Sbarra e serrature varie
 Ogni sera va chiusa la sbarra e le porte della casa, ogni mattina ricordarsi di aprire la sbarra 
