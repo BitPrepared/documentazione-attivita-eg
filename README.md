@@ -23,3 +23,5 @@
   * [Sviluppo App](attivita/workshop-app)
   * Editoria
   * [Stop-motion](attivita/workshop-stopmotion)
+---
+_Seguici su [Web](https://live.bitprepared.it) e [Instagram](https://www.instagram.com/bit.prepared/)_
