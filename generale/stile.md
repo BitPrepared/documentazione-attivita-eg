@@ -5,7 +5,7 @@
 Eseguite tramite fischietto dai capi campo (o comunque delegati dagli stessi).
 
 Chiamate previste al campo:
-- Tutti: ` - -···` (attenzione, 1 lungo 3 corti)
+- Tutti: ` - -·······` (attenzione, 1 lungo seguito da molti corti)
 - Capi Squadriglia:	` - -·-·` (attenzione, lungo corto lungo corto)
 - Cambusa: ` - ---` (attenzione, 3 lunghi)
 
