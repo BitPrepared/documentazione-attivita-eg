@@ -1,8 +1,8 @@
 # Attività campo E/G
 
-* [Stile e impostazione generale del campo](stile.md)
+## Documentazione attività
 * [Giochi di conoscenza in stazione](attivita/conoscenza)
-* [Ambientazione generale](attivita/ambientazione)
+* [Ambientazione Star Wars](attivita/ambientazione)
 * Fuochi di bivacco:
   * [Fuoco di bivacco 25/8](attivita/fuochi/bivacco-25-8.md)
   * [Fuoco di bivacco 26/8](attivita/fuochi/bivacco-26-8.md)
@@ -23,5 +23,11 @@
   * [Sviluppo App](attivita/workshop-app)
   * Editoria
   * [Stop-motion](attivita/workshop-stopmotion)
+
+## Altro materiale di interesse generale
+* [Stile e impostazione generale del campo](generale/stile.md)
+* [Lettera ragazzi](generale/lettera_ragazzi.docx)
+* [Libretto ragazzi](generale/libretto_ragazzi.pdf)
+
 ---
 _Seguici su [Web](https://live.bitprepared.it) e [Instagram](https://www.instagram.com/bit.prepared/)_
