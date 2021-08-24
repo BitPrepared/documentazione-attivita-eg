@@ -18,7 +18,7 @@
 * [Uscita](attivita/uscita)
 * Gioco puntamento
 * [Telematica](attivita/telematica)
-* Digital life
+* [Digital life](attivita/digital-life)
 * Workshop:
   * [Sviluppo App](attivita/workshop-app)
   * Editoria
