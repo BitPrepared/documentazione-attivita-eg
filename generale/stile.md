@@ -12,17 +12,20 @@ Chiamate previste al campo:
 Il primo fischio è sempre una linea e corrisponde al segnale "attenzione"; dopo questo fischio si attendono tre secondi e quindi vengono eseguiti gli altri.
 
 ## Presentazione della squadriglia
-Alla chiamata di tutto il reparto, i ragazzi devono arrivare per squadriglia ovvero capo-squadriglieri-vice.
+Alla chiamata di tutto il reparto, i ragazzi devono arrivare per squadriglia, ovvero capo - squadriglieri - vice (tutta la squadraglia alla sinistra del capo).
 
 La presentazione avviene in questo modo:
 - Il caposquadriglia, coadiuvato dal vicecaposquadriglia, controlla che la squadriglia sia al completo ed in ordine.
-- Tutta la squadriglia esegue l'urlo.
+- Tutta la squadriglia esegue l'urlo, il capo squadriglia alzando il guidone (sulla destra) e la squadriglia salutando.
 
 Anche dopo il tramonto del sole si esegue l'urlo di squadriglia ed i fischi delle chiamate.
 
 Il guidone di squadriglia, quando non usato, deve essere di fronte alle tende.
 
 Sempre alla chiamata generale le squadriglie si dispongono a seconda di cosa il capo indica con le braccia:
+- braccia stese in avanti: in fila;
+- braccia chiuse ad anello sopra la testa: in cerchio;
+- braccia alzate, gomito a 90°: a quadrato.
 
 ## Uniforme
 Composta da pantaloncini corti (non necessariamente dell'uniforme), camicia, fazzolettone, eventuale capellone.
