@@ -16,7 +16,7 @@
 * [ABCDE(F?)](attivita/abcdef/abcdef.pdf)
 * [Software Libero](attivita/software-libero)
 * [Uscita](attivita/uscita)
-* Gioco puntamento
+* [Gioco puntamento](attivita/puntamento)
 * [Telematica](attivita/telematica)
 * [Digital life](attivita/digital-life)
 * Workshop:
@@ -28,6 +28,7 @@
 * [Stile e impostazione generale del campo](generale/stile.md)
 * [Lettera ragazzi](generale/lettera_ragazzi.docx)
 * [Libretto ragazzi](generale/libretto_ragazzi.pdf)
+* [Carta di competenza](generale/carta_comp.pdf) e [Carta di specialità](generale/carta_spec.pdf)
 
 ---
 _Seguici su [Web](https://live.bitprepared.it) e [Instagram](https://www.instagram.com/bit.prepared/)_
