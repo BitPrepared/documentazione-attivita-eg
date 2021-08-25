@@ -21,7 +21,7 @@
 * [Digital life](attivita/digital-life)
 * Workshop:
   * [Sviluppo App](attivita/workshop-app)
-  * Editoria
+  * [Editoria](attivita/workshop-editoria)
   * [Stop-motion](attivita/workshop-stopmotion)
 
 ## Altro materiale di interesse generale
