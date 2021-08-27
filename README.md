@@ -24,6 +24,10 @@
   * [Editoria](attivita/workshop-editoria)
   * [Stop-motion](attivita/workshop-stopmotion)
 
+* Esportazione:
+  * [Materiale Workshop](esportazione/materiale-workshop)
+  	* [Editoria](esportazione/materiale-workshop/editoria)
+
 ## Altro materiale di interesse generale
 * [Stile e impostazione generale del campo](generale/stile.md)
 * [Lettera ragazzi](generale/lettera_ragazzi.docx)
