@@ -22,17 +22,26 @@ Categorie delle domande (per nomi dei pianeti):
 
 ## Struttura
 
-
 ### Kamaludu
 
 [https://it.scoutwiki.org/Kamaludu](Kamaludu con i nomi delle sq)
 
 ### Lancio
 I maestri jedi lanciano nuove sfide di addestramento per vedere come procede la conoscenza dei Padawan
-Ogni squadra deve scegliere un proprio "portavoce" che si prenoterà per rispondere alle domande.
+Ogni squadriglia deve scegliere un proprio "portavoce" che si prenoterà per rispondere alle domande usando un verso.
+La prima squadriglia che si è prenotata risponde: se fa giusto guadagna, la squadriglia i punti previsti dalla domanda, se sbaglia perde tanti punti quanto vale la domanda. In caso di errore della prima, si passerà alla seconda squadra, poi alla terza e così via.
+Se una squadra non si prenota, non perderà ne guadagnerà.
+Vince la serata la squadra che totalizza più punti.
 
-### xxx
-xxx
+### Primo round di domande
+Il gioco parte da un pianeta e una domanda a caso. Chi indovina la risposta, oltre a prendere i punti, può scegliere il pianeta sul quale atterrare per la prossima domanda. Si procede così per le prime 5 domande.
 
 ### Intermezzo
 La prima squadriglia canta la propria canzone
+
+### Round successivi
+Si riprende la partita da dove era stata interrotta per altre 5 domande.
+
+### Intermezzi tra i round successivi
+Un'altra squadriglia canta la propria canzone
+
