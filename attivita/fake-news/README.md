@@ -2,6 +2,8 @@
 
 ## Parte 1 - Lancio e gioco
 
+Ambientazione: _TODO_
+
 Lancio: Chi l'avrebbe mai detto?! Ce lo vogliono tenere nascosto ma sembra proprio che la vita di reparto, in particolare la cucina sui bidoni, provoca danni neurologici all'area del linguaggio, impedendo un uso corretto del congiuntivo!
 
 Ogni sq deve quindi mettersi nei panni di un fake-newser (seminatore di false notizie), cercando di popolare la propria bacheca social di post convincenti sul tema appena lanciato.
