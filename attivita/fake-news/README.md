@@ -1,4 +1,4 @@
-# Gioco Fake News (ovvero mi pare che sia tutto vero)
+# Gioco Fake News (ovvero mi pare che sarebbe tutto vero)
 
 ## Parte 1 - Lancio e gioco
 
