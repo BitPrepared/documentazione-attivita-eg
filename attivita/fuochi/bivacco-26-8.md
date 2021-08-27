@@ -24,7 +24,7 @@ Categorie delle domande (per nomi dei pianeti):
 
 ### Kamaludu
 
-[https://it.scoutwiki.org/Kamaludu](Kamaludu con i nomi delle sq)
+[Kamaludu con i nomi delle sq](https://it.scoutwiki.org/Kamaludu)
 
 ### Lancio
 I maestri jedi lanciano nuove sfide di addestramento per vedere come procede la conoscenza dei Padawan
