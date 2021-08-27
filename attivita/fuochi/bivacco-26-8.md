@@ -1,25 +1,23 @@
 # Fuoco di bivacco – giovedì 26/8
 
-Siamo tornati sul pianeta e vogliamo condividere le nostre esperienze: “vediamo cosa avete imparato durante il viaggio sulla millennium falcon” (Attori: DANI+FIPPE)
+Siamo tornati sul pianeta e vogliamo condividere le nostre esperienze: "vediamo cosa avete imparato durante il viaggio sulla millennium falcon"
 
 Obiettivo: condividere l’uscita modificando un canto o bans per raccontare la giornata
-
-PREPARAZIONE DEL CANTO O BANS MODIFICATI: nel programma è previsto dopo cena fino alle 21.00 finché non chiamiamo per il fuoco di bivacco, secondo noi serve più tempo (risposta: se siamo in anticipo bene, se tempo non ce n'è fanno solo una strofa e il ritornello)
 
 ## Gioco del riskiatutto
 Domande da 10 a 50 punti
 Categorie delle domande (per nomi dei pianeti):
-* dagobah - Workshop 1 - domande sul Workshop 1 – APP
-* tatooine - Workshop 2 – ws2 domande sul Workshop 2 – STOP MOTION
-* isis - Workshop 3 ws domande Workshop 3 ws GIORNALISMO+BLOG
+* dagobah - Workshop - 5 domande sul Workshop 1 (APP, STOP MOTION, GIORNALISMO)
 * geonosis - domande sulla DIVINA commedia
-* kamino  - domande sul tema domande Lol
-* kessel – domande sullo Sport
-* eudor – domande sulla Giornata di oggi
+* kamino  - domande a tema "Lol"
+* kessel – domande su Sport
+* eudor – domande sulle prime due giornate
 * naboo – domande di Geografia
 
 ## Materiale:
-* tabellone riskiatutto – MIKI
-* domande riskiatutto - MIKI
-* domande sulla Giornata – DA DECIDERE IL GIORNO STESSO
-* domande dei workshop - DA CHIEDERE AI REFERENTI DEI WORKSHOP
+* tabellone riskiatutto (griglia con temi e punti 10-20-30-40-50 da cancellare man mano)
+* domande (alcune da casa, altre fatte dai capi dei WS o da tutto lo staff)
+
+## Struttura
+
+TODO
