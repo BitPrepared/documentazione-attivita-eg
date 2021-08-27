@@ -8,7 +8,7 @@ Presentazione con slide, video e [Stellarium](https://stellarium.org): [Traccia 
 *Viaggiare nell'iperspazio non è come spargere fertilizzanti da un aeroplano! Senza i dati esatti potremmo volare attraverso una stella o avvicinarci troppo a una supernova e il vostro viaggio finirebbe prima di cominciare!*
       
 ### Libro della Sapienza	7, 17-21 - Dio dona la Sapienza 
-Egli mi ha concesso la conoscenza infallibile delle cose, per comprender la struttura del mondo e la forza degli elementi, il principio, la fine e il mezzo dei tempi, l`alternarsi dei solstizi e il susseguirsi delle stagioni, il ciclo degli anni e la posizione degli astri, la natura degli animali e l`istinto delle fiere, i poteri degli spiriti e i ragionamenti degli uomini, la varietà delle piante e le proprietà delle radici.
+Egli mi ha concesso la conoscenza infallibile delle cose, per comprender la struttura del mondo e la forza degli elementi, il principio, la fine e il mezzo dei tempi, l'alternarsi dei solstizi e il susseguirsi delle stagioni, il ciclo degli anni e la posizione degli astri, la natura degli animali e l'istinto delle fiere, i poteri degli spiriti e i ragionamenti degli uomini, la varietà delle piante e le proprietà delle radici.
 Tutto ciò che è nascosto e ciò che è palese io lo so, poiché mi ha istruito la sapienza, artefice di tutte le cose.
 
 ### Navigare affidandosi alla conoscenza dell’acqua, del cielo e del vento
