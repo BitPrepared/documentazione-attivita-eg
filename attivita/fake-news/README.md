@@ -19,8 +19,9 @@ Dopo questa prima fase, le sq avranno 15 minuti per preparare i propri post, che
 ## Parte 2 - Chiacchierata (~20-25 minuti su fake news partendo dal gioco e dai loro post). Traccia
 
 Le evidenze statistiche a oggi disponibili mostrano che le informazioni non verificate e le vere e proprie bufale tendono a diffondersi più velocemente rispetto alle notizie correttamente veicolate, tendendo peraltro a permanere in circolazione più a lungo. E i bias cognitivi rendono molto complesso far cambiare idea a posteriori a chi si è già convinto di qualcosa sulla base di una falsa notizia, ovvero una volta che si è convinti di qualcosa, anche di una notizia falsa, è molto più difficile cambiare idea.
+E perché ci sono le fake news? Chi le propone? E che interessi ci sono dietro?
 
-Tre livelli per tre tecniche di disinformazione
+### Tre livelli per tre tecniche di disinformazione
 
 A contribuire a rendere virali le informazioni, vere o false che siano, è spesso la loro carica emotiva, e il meccanismo dell'indignazione viene sfruttato proprio per portare le persone ad agire impulsivamente, dimenticando cautela, razionalità e senso critico. Un altra tecnica importante è la presenza in rete dei cosiddetti finti esperti. Una dinamica che si può manifestare con diverse sfumature: una fonte esterna completamente inventata, cioè che non esiste affatto, una fonte reale ma non attendibile, oppure ancora una fonte che esiste davvero ed è autorevole, ma i cui contenuti vengono citati in modo errato o volutamente distorto.
 Se per queste prime due tecniche di disinformazione è facile identificare un antidoto - affrontare le notizie con la giusta calma e verificare la credibilità delle fonti citate - molto più sfumata e complessa da gestire è la terza: il complottismo. Proprio come stiamo vedendo durante la pandemia di Covid-19, in mesi di forte incertezza anche dal punto di vista scientifico si è tentati di ricercare motivi sinistri o cause nascoste (di solito semplicistiche rispetto alla realtà delle cose) che giustifichino ciò che sta accadendo. Il che va ben oltre quel sano scetticismo che è alla base dello spirito critico, ma sfocia nelle più disparate teorie e si alimenta grazie a meccanismi virali. 
@@ -33,10 +34,13 @@ Una bugia può sembrare più attendibile quando c'è una fonte che la conferma. 
 * COMPLOTTO
 In tempi di incertezza, come durante questa pandemia, è forte la tentazione di ricercare motivi sinistri o cause nascoste dietro a quello che sta succedendo. Ha senso manifestare un certo scetticismo, ma nella vita reale ci sono molte cose che non si possono ricondurre a una semplice causa.
 
-
-Materiali:
+## Materiali:
 * [Parole, hashtag, nomi di pseudo-esperti, Meme etc da appendere agli alberi](parole_gioco_fakenews.pdf)
 * Spago
 * Fogli A3 bianchi
 * Pennarelli
 
+## Note 2021
+- Specificare che non devono per forza usare tutte le parole raccolto
+- Specificare bene che il loro ruolo è spargere disinformazione sul tema specifico, ovvero correlazione scout-congiuntivo
+- Portare qualche esempio di fake news circolata recentemente, vedere se ci cascano o no...
