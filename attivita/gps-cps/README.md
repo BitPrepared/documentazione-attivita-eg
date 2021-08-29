@@ -46,3 +46,6 @@ essere ben sincroni tra loro).
 La chiacchierata sul gipifesso dovrebbe essere metà prima e metà
 dopo del gioco.  Prima si racconta la teoria, spiegando il gioco, e
 dopo si può discutere di praivasi.
+
+## Note 2021
+- bendare tutti i ragazzi insieme, poi opportuno che ogni capo porti sempre i ragazzi nello stesso posto per sapere poi chi ha portato e dove (in alternativa, i capi si devono segnare chi portano e dove per la valutazione delle sq)
