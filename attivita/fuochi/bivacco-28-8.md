@@ -27,3 +27,8 @@ Per evitare che qualche squadra utilizzi qualche mind-game contro le altre sq, c
 - Effetto speciale - ancora da capire se funziona (Fippe)
 - Una tabella per sq con la codifica carattere-ASCII (Daniela?)
 - Dispositivo (Lele)
+
+## Note 2021
+- Griglia piccola per evitare che duri troppo - 10x10 può andar bene
+- L'ASCII non funziona, troppo macchinoso, meglio evitarlo
+- Il colpo della squadra meglio se subordinato al superamento di una micro-prova contro i capi (sasso-carta-forbice; galletto; pari-dispari; pollice; testa-croce; braccio di ferro; nodo bendati; resistenza su un piede; chi ride prima; scalpo; palleggio palloncini; tre bicchieri) o domande sul campo per "riviverlo"
